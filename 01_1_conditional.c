@@ -12,4 +12,5 @@ int main(){
         printf("Value is less than 10");
     }
     return 0;
+
     }
